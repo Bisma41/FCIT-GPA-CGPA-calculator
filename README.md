@@ -1,4 +1,4 @@
-# FCIT-GPA/CGPA Calculator
+# FCIT-GPA-CGPA Calculator
 
 A Python-based GPA/CGPA calculator that helps students calculate their GPA and CGPA based on their subject marks and credit hours. This calculator supports multiple semesters and improvement subjects.
 
