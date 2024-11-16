@@ -21,15 +21,14 @@ A Python-based GPA/CGPA calculator that helps students calculate their GPA and C
    git clone https://github.com/Bisma41/FCIT-GPA-CGPA-Calculator.git
 
 ## Install the required Python package (tabulate) using pip
+ 
+    ```bash
+    pip install tabulate
 
-  ```bash
-  pip install tabulate
-
-## How to Use
+## How to use
 
 1. Run the script:
-
-  ```bash
+   ```bash
   python calculator.py
 
 ## Choose one of the following options:
