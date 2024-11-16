@@ -29,7 +29,7 @@ A Python-based GPA/CGPA calculator that helps students calculate their GPA and C
 
 1. Run the script:
    ```bash
-  python calculator.py
+   python calculator.py
 
 ## Choose one of the following options:
 
