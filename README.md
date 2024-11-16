@@ -20,4 +20,4 @@ A Python-based GPA/CGPA calculator that helps students calculate their GPA and C
 
 1. Clone this repository to your local machine:
    ```bash
-  [ git clone https://github.com/bisma41/FCIT-GPA-CGPA-calculator.git](https://github.com/Bisma41/FCIT-GPA-CGPA-calculator.git)
+  git clone https://github.com/Bisma41/FCIT-GPA-CGPA-calculator.git
