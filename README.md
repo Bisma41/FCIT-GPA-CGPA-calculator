@@ -22,7 +22,7 @@ A Python-based GPA/CGPA calculator that helps students calculate their GPA and C
 
 ## Install the required Python package (tabulate) using pip
  
-    ```bash
+     ```bash
     pip install tabulate
 
 ## How to use
