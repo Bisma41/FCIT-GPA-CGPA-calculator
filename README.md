@@ -19,3 +19,22 @@ A Python-based GPA/CGPA calculator that helps students calculate their GPA and C
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Bisma41/FCIT-GPA-CGPA-Calculator.git
+
+## Install the required Python package (tabulate) using pip
+
+pip install tabulate
+
+## How to Use
+
+1. Run the script:
+
+bash
+
+python calculator.py
+
+## Choose one of the following options:
+
+Option 1: Calculate GPA for the current semester.
+Option 2: Calculate CGPA (including previous semesters).
+Option 3: Add marks of an improvement subject from previous semesters.
+Follow the prompts to input subject names, marks, credit hours, and other necessary details.
