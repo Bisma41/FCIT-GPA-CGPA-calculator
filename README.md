@@ -22,19 +22,23 @@ A Python-based GPA/CGPA calculator that helps students calculate their GPA and C
 
 ## Install the required Python package (tabulate) using pip
 
+```bash
 pip install tabulate
 
 ## How to Use
 
 1. Run the script:
 
-bash
+```bash
 
 python calculator.py
 
 ## Choose one of the following options:
 
 Option 1: Calculate GPA for the current semester.
+
 Option 2: Calculate CGPA (including previous semesters).
+
 Option 3: Add marks of an improvement subject from previous semesters.
+
 Follow the prompts to input subject names, marks, credit hours, and other necessary details.
